@@ -1,6 +1,5 @@
 # Docker ROS2 NAV2 VNC
-This is a simple docker image that allows you to run the Navigation2 tutorials inside a Docker and visualize the results via VNC. 
-
+This is a simple docker image that allows you to run the Navigation2 tutorials inside a Docker and visualize the results via VNC. The code is based on [Tiryoh's Github repository](https://github.com/Tiryoh/docker-ros2-desktop-vnc).
 
 
 ## How to Use
@@ -25,8 +24,7 @@ sudo docker push ctfchan/ros2-nav2-vnc:foxy
 
 
 ## Sources
-addison article 
-original vnc ros docker github
-    
+- https://automaticaddison.com/how-to-install-and-launch-ros2-using-docker/
+- https://github.com/Tiryoh/docker-ros2-desktop-vnc
 
 
